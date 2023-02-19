@@ -3,9 +3,9 @@
 
 ## Изображения
 <p>
-    <img src="https://i.ibb.co/QbxFj6D/image.png">  
-    <img src="https://i.ibb.co/kS1MwFs/image.png">  
-    <img src="https://i.ibb.co/QHJDKHX/image.png">  
+    <img src="https://i.ibb.co/FKDrvHS/image.png" width = "600px">  
+    <img src="https://i.ibb.co/q1zsRbX/image.png" width = "600px">  
+    <img src="https://i.ibb.co/ThXDv20/image.png" width = "600px">  
 </p>
 
 ## Разработчик
